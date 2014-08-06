@@ -17,3 +17,8 @@ Hi, I'm Jitendra Agrawal (you can call me Jeet) - I will working with you throug
 
 Over to the next person!
 ************************************************
+
+Hola, I am Ankit Mittal. I am one the mentors who will be guiding you in the workshops. I am self taught python developer and also tinker with javascript. I have been working in education technology domain since few years now, it started with writing a programming assignment checker and grader in college, then worked on moodle for quite some time and now I am working on world's first automated proctoring solution. I am passionate about online learning and have strong belief in continuous self learning is the best way to bullet proof your career. 
+
+Over to the next person!
+************************************************
