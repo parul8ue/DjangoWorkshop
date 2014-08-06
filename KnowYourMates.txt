@@ -1,0 +1,12 @@
+Hi There!
+
+We are very excited about kicking off this workshop. As a fun activity for getting comfortable with git and github - the medium we will use for sharing our code - lets add a bit about ourselves to this file. Then Add. Commit. Push! This will help all the participants and mentors to get to know each other. Try to include some fun, whacky facts about yourself :-)
+
+************************************************
+
+Hello, I’m Parul Gupta - I will be one of your mentors for this workshop. My history traverses many wonderful places, including Jaipur, IIT Bombay and Southern California. I am also one of the founders of SlideRule, a self-taught pythonista and very passionate about the potential of open online learning. 
+
+Fun trivia about me: My masters degree from UCLA has Arnold Schwarzenegger’s autograph on it. I will treat any quizzing geniuses here who can guess the connection ;-)
+
+Over to the next person!
+************************************************
