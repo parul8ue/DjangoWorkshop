@@ -10,3 +10,7 @@ Fun trivia about me: My masters degree from UCLA has Arnold Schwarzenegger’s a
 
 Over to the next person!
 ************************************************
+
+@Parul: Arnold Schwarzenegger was California's governer when you were doing an MS. ;-) You are using smart / curly quotes on your mac. Change them to ascii/straight quotes.
+
+Hi, I'm Jitendra Agrawal (you can call me Jeet) - I will working with you throughout this workshop and I hope you will be as excited about writing code as I am by the end of this interaction. I have been fortunate enough to build some popular applications from scratch. A quick list - a search engine, webmail, online document storage (that's Google Drive or Dropbox for you), voice mail, missed call alerts, caller ringback tones (hello tunes) and a social network. I am part of the tech team at SlideRule and I enjoy writing Python.
