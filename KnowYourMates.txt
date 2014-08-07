@@ -27,3 +27,5 @@ Hi, I am Aram Bhusal. I will be one of the mentors for this workshop. I am a mul
 
 Over to the next person!
 ************************************************
+
+Hi, I am Saket. I am jack of some trades, and master(not really) of phun. I like writing code "for people", which essentially means, code should be human readable, and in someway, touch lives of people. 
