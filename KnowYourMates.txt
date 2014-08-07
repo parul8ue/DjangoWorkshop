@@ -42,3 +42,8 @@ Hi, I am Anshu Purohit. I am one of the mentors for this workshop. I am a self t
 
 Over to the next person!
 ************************************************
+
+Hi, I am Aditya. I am online marketing consultant and a mentor at a startup accelerator! Looking forward to learn Python/Django and also connect with some like-minded Pythonistas. :)
+
+Over to the next person!
+************************************************
