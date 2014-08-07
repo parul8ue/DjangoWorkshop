@@ -29,3 +29,11 @@ Over to the next person!
 ************************************************
 
 Hi, I am Saket. I am jack of some trades, and master(not really) of phun. I like writing code "for people", which essentially means, code should be human readable, and in someway, touch lives of people. 
+
+Over to the next person!
+************************************************
+
+Hi, I am Brajeshwar. I want to learn Python Django. Let's see how this goes and hopefully I can finish the course. :-)
+
+Over to the next person!
+************************************************
