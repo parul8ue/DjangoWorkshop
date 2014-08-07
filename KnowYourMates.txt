@@ -4,7 +4,7 @@ We are very excited about kicking off this workshop. As a fun activity for getti
 
 ************************************************
 
-Hello, I’m Parul Gupta - I will be one of your mentors for this workshop. My history traverses many wonderful places, including Jaipur, IIT Bombay and Southern California. I am also one of the founders of SlideRule, a self-taught pythonista and very passionate about the potential of open online learning. 
+Hello, I’m Parul Gupta - I will be one of your mentors for this workshop. My history traverses many wonderful places, including Jaipur, IIT Bombay and Southern California. I am also one of the founders of SlideRule, a self-taught pythonista and very passionate about the potential of open online learning.
 
 Fun trivia about me: My masters degree from UCLA has Arnold Schwarzenegger’s autograph on it. I will treat any quizzing geniuses here who can guess the connection ;-)
 
@@ -18,7 +18,12 @@ Hi, I'm Jitendra Agrawal (you can call me Jeet) - I will working with you throug
 Over to the next person!
 ************************************************
 
-Hola, I am Ankit Mittal. I am one the mentors who will be guiding you in the workshops. I am self taught python developer and also tinker with javascript. I have been working in education technology domain since few years now, it started with writing a programming assignment checker and grader in college, then worked on moodle for quite some time and now I am working on world's first automated proctoring solution. I am passionate about online learning and have strong belief in continuous self learning is the best way to bullet proof your career. 
+Hola, I am Ankit Mittal. I am one the mentors who will be guiding you in the workshops. I am self taught python developer and also tinker with javascript. I have been working in education technology domain since few years now, it started with writing a programming assignment checker and grader in college, then worked on moodle for quite some time and now I am working on world's first automated proctoring solution. I am passionate about online learning and have strong belief in continuous self learning is the best way to bullet proof your career.
+
+Over to the next person!
+************************************************
+
+Hi, I am Aram Bhusal. I will be one of the mentors for this workshop. I am a multi-linguist in both natural languages and programming languages ;-) I am a self taught Python enthusiast who also happens to be a rubyst and a javascript geek at the same time. I have worked on building many end to end solutions, right from messaging apps  ,social web apps, education publishing tools, medical recording apps, Natural Language processing apps etc. to name a few. I love learning new stuff and enjoy building and hacking whatever muses me. I am really excited about this workshop and looking forward to making you fall in love with code.
 
 Over to the next person!
 ************************************************
