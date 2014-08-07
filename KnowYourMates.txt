@@ -37,3 +37,8 @@ Hi, I am Brajeshwar. I want to learn Python Django. Let's see how this goes and 
 
 Over to the next person!
 ************************************************
+
+Hi, I am Anshu Purohit. I am one of the mentors for this workshop. I am a self taught UI Developer & I like building user friendly interfaces that bridges the gap between humans & computers. 
+
+Over to the next person!
+************************************************
