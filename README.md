@@ -1,4 +1,3 @@
-DjangoWorkshop
-==============
+# DjangoWorkshop
 
-This is a shared repository for participants of the Webdev workshop on Python/Django
+[Web Development using Python & Django](http://www.mysliderule.com/learning-paths/web-development-python-django/)
