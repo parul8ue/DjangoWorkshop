@@ -52,3 +52,8 @@ Hi, I am Sonu Kumar and i want to learn Django python with the understanding of 
 
 Over to the next person!
 ************************************************
+
+Hi, I am Krishna Kishore Shetty. My ultimate aim is to become an awesome Full Stack Developer. Taking this course to help me get there. :-D
+
+Over to the next person!
+************************************************
