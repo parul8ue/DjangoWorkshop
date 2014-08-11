@@ -66,3 +66,9 @@ Hi, I’m Nge and I’m from Malaysia ;) I’m an internet Marketer looking to l
 
 Over to the next person!
 ************************************************
+
+Hi, I am Karthik Parvathaneni. I am an alumnus of both VIT University and ISB. I am here as a beginner to Python and Django.
+Hope to learn interesting stuff and make friends along the way.
+
+Over to the next person!
+************************************************
