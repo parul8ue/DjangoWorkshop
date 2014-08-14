@@ -80,3 +80,7 @@ Hi, I am Shrinivas Hekale. I have just started working as a support specialist f
 Hi, I am Megha. I am pursuing my PhD in Computer Science at USC. I want to learn Django just for fun as of now but I'm sure it's going to be very useful at some point in my life :)
 
 **********************************
+
+Hi, I am Sreekanth. I am currently working as a Software engineer who writes code in Java. Hoping to learn Python and Django and wet my feet in web app development.
+
+**********************************
