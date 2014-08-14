@@ -84,3 +84,6 @@ Hi, I am Megha. I am pursuing my PhD in Computer Science at USC. I want to learn
 Hi, I am Sreekanth. I am currently working as a Software engineer who writes code in Java. Hoping to learn Python and Django and wet my feet in web app development.
 
 **********************************
+Hi, I am Deepak Panigrahy. I am here as a complete beginner to Web Development. Just sheer need of knwoledge of Web Development forced me into this course and get my hands dirty for it.
+
+********************************************************
