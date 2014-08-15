@@ -84,3 +84,7 @@ Hi, I am Megha. I am pursuing my PhD in Computer Science at USC. I want to learn
 Hi, I am Sreekanth. I am currently working as a Software engineer who writes code in Java. Hoping to learn Python and Django and wet my feet in web app development.
 
 **********************************
+
+Hi, I am Deepak. I am the Co-Founder of InstaSafe: A Developer by Choice, An Entrepreneur by Passion and a Business Professional by Need. First time trying my hands on cool visible stuffs having spent in dark computer backgrounds on Linux, C and C++. Here to learn, get hands-on on Web Development for future product needs.
+
+******************************************************************************************************************************************
