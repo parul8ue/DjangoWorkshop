@@ -88,3 +88,5 @@ Hi, I am Sreekanth. I am currently working as a Software engineer who writes cod
 Hi, I am Deepak. I am the Co-Founder of InstaSafe: A Developer by Choice, An Entrepreneur by Passion and a Business Professional by Need. First time trying my hands on cool visible stuffs having spent in dark computer backgrounds on Linux, C and C++. Here to learn, get hands-on on Web Development for future product needs.
 
 ******************************************************************************************************************************************
+
+Hello, myself Sindhu. I'm a Production Engineer who always works with a black and white screen(a linux terminal) and open source technologies.I like to learn new things in life and so am I here to get my hands dirty with web development. So, Lets get this moving then! :)
