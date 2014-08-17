@@ -1,4 +1,4 @@
-Hi There!
+﻿Hi There!
 
 We are very excited about kicking off this workshop. As a fun activity for getting comfortable with git and github - the medium we will use for sharing our code - lets add a bit about ourselves to this file. Then Add. Commit. Push! This will help all the participants and mentors to get to know each other. Try to include some fun, whacky facts about yourself :-)
 
@@ -95,4 +95,9 @@ Hello, myself Sindhu. I'm a Production Engineer who always works with a black an
 
 Hi, I am Roshan. I am a person who always has ideas and I want to be independent and to be able to try out some of my ideas on my own. Looking forward to this and hope to be disciplined and take some time out to do this.
 
+********************************************************************************************************
 
+Hi, I'm Shriram. I'm QA consultant at McAfee. I use Python in my day to day QA activities. Internet and Python excites me, so I'm here to learn the things which builds the World Wide Web and get hands on.
+
+Over to the next person!
+*********************************************************************************************************
