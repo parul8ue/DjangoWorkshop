@@ -117,3 +117,12 @@ Hi all, I am Gaurav Sharma - I work as an Android developer i have been taking c
 android from last two years.I love to explore new technologies. 
 
 Over to the next person
+
+*********************************************************************************************************
+
+Hi, I'm Hemant Pawar. I'm a freelancer and develop extensions for Mozilla Firefox and Google Chrome. I develop programs  that aren't useful for anyone :D.
+In this workshop I'm learning Django just for fun.
+
+Over to the next person.
+
+
