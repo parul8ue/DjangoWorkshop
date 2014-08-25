@@ -135,3 +135,13 @@ Hi, I'm Hemant Pawar. I'm a freelancer and develop extensions for Mozilla Firefo
 In this workshop I'm learning Django just for fun.
 
 Over to the next person.
+
+
+
+*********************************************************************************************************
+
+Hi, I'm Sandeep K. I'm not a non-techie in a tech startup! So time to learn a little about what everyone else keeps talking at my workplace.
+
+Over to the next person.
+
+*********************************************************************************************************
