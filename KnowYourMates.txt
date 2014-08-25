@@ -120,9 +120,18 @@ Over to the next person
 
 *********************************************************************************************************
 
+Hi all,
+
+I am Mayank Rungta. I am glad I do this exericse towards the end as I get to know all the esteemed batch mates! :)
+
+Out of corporate sh*t and exploring last 8 months after a 11 year stint with corporates. Dabbling with web programming from WordPress to Django. Need to get my game straight so here. So far so good. I am loving it! :)
+
+Over to the next person iff there is one! :D
+
+
+*********************************************************************************************************
+
 Hi, I'm Hemant Pawar. I'm a freelancer and develop extensions for Mozilla Firefox and Google Chrome. I develop programs  that aren't useful for anyone :D.
 In this workshop I'm learning Django just for fun.
 
 Over to the next person.
-
-
